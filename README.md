@@ -10,3 +10,5 @@ ZCZC Week02 (telah mencoba demo dan menjalankan program demo)
 ZCZC Week04 telah mencoba menjalankan Week04
 
 ZCZC Week05 telah mencoba menjalankan demos Week05
+
+ZCZC Week06 telah menjalankan demo Week06
